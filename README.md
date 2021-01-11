@@ -7,6 +7,6 @@ Web Application for collecting IT/development tickets.
 
 Development status: early no functionality
 
-using 
+### using 
 C# ASP.net core razor pages  
 entity framework
